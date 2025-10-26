@@ -481,7 +481,7 @@ print(data)`;
                 <span>Try Web Interface</span>
               </a>
               <a
-                href="https://github.com/terawebar"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center space-x-2 bg-gray-600 hover:bg-gray-700 text-white px-4 sm:px-6 py-2.5 sm:py-3 rounded-lg transition-all duration-300 transform hover:scale-105 text-sm sm:text-base"
